@@ -31,6 +31,7 @@ function prebuybook(bookid){
 <input type="button" value="直接购买" onclick="prebuybook('${book.bookid}');"/>
 <!-- 这里，点击购买的时候：
 		1.要求后续操作必须得登录之后才可以操作；
+		22222222222
 		2.还需要提供一个页面给用户，让用户选择使用哪个账户来扣款(因为一个用户，有多个账户)
  -->
 </body>
