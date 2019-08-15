@@ -15,7 +15,7 @@
 </head>
 <body>
 
-<h3>这里是book_add.jsp页面</h3>
+<h3>这里是book_add.jsp的页面</h3>
 <form action="bc/addbook" method="post" enctype="multipart/form-data"> 
 	书名：<input type="text" name="bookName" value="java编程" /><br/>
 	出版社：<input type="text" name="publicDept" value="清华大学出版社" /><br/>
